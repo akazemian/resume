@@ -33,7 +33,7 @@ sidebar:
     skills:
       title: Skills
       info:
-        - item: Software
+        - item: "<b>Software</b>"
           link:
 
         - item: Machine Learning
@@ -45,13 +45,13 @@ sidebar:
     interests: |
       title: Interests
       info:
-        - item: Climbing
+        - item: Knowledge representation and generalization in humans and machines
           link:
 
-        - item: Snowboarding
+        - item: Biologically inspired computer vision models 
           link:
 
-        - item: Cooking
+        - item: Multi-modal processing in humans (vision and language) and machines (image captioning, text to image generation, visual question answering, etc)
           link:
 
 career-profile:
