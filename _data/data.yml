@@ -91,46 +91,29 @@ education:
 research:
     title: Research Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - role: Research Coordinator
+        time: 2023 - Now
+        company: Department of Cognitive Science, Johns Hopkins University 
+        details: 
+            Studying the computational architecture of the visual cortex using
+            computational methods, advised by Prof Michael Bonner.
+      - role: Graduate Student Researcher
+        time: 2022 - 2023
+        company: Department of Cognitive Science, Johns Hopkins University 
+        details: 
+            Studying the computational architecture of the visual cortex using
+            computational methods, advised by Prof Michael Bonner.
+      - role: Post-Baccalaureate Researcher
+        time: 2021 - 2022
+        company: Department of Ophthalmology and Visual Sciences, The
+University of British Columbia 
+        details:
+        Studied abnormal behavioral markers involved in face scanning in 
+        prosopagnosia (face agnosia) using deep learning, advised by Prof. Jason 
+        Barton and Prof. Ipek Oruc
             
 work:
-    title: Wrok Experience
+    title: Work Experience
     info:
       - role: Data Science Intern
         time: 2021
