@@ -137,9 +137,6 @@ work:
 projects:
     title: Projects
     intro: |
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Modeling Visual Cortex Using Wide Untrained Neural Networks
         link: "https://github.com/akazemian/Engineered_Models"
@@ -165,9 +162,6 @@ projects:
 publications:
     title: Conference Talks and Posters
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
       - title: (Talk) Toward a computational neuroscience of visual cortex without deep learning
         link: "https://www.visionsciences.org/presentation/?id=5455"
