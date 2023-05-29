@@ -37,13 +37,12 @@ sidebar:
           link:
 
         - item: "<b>Deep Learning Frameworks:</b> PyTorch, TensorFlow"
-
           link:
           
         - item: "<b>Machine Learning:</b> Scikit-learn, Scipy"
           link:
           
-        - item: "<b>Data Manipulation and Analysis:</b>  Torch, Xarray, NumPy, Pandas"
+        - item: "<b>Data Manipulation and Analysis:</b> Torch, Xarray, NumPy, Pandas"
           link:
           
         - item: "<b>Visualization:</b> Matplotlib, Seaborn, Plotly"
@@ -52,7 +51,7 @@ sidebar:
         - item: "<b>Software Tools:</b> Git, Jupyter Notebook"
           link:
           
-         - item: "<b>Computational Neuroscience:</b> fMRI data analysis, dimensionality reduction techniques, cross-validated regression methods for comparing brain and model representations, eye-tracking data analysis"
+        - item: "<b>Computational Neuroscience:</b> fMRI data analysis, dimensionality reduction techniques, cross-validated regression methods for comparing brain and model representations, eye-tracking data analysis"
           link:
 
           
