@@ -33,14 +33,28 @@ sidebar:
     skills:
       title: Skills
       info:
-        - item: "<b>Software</b> some text"
+        - item: "<b>Programming Languages:</b> Python, SQL, C++" 
           link:
 
-        - item: Machine Learning
+        - item: "<b>Deep Learning Frameworks:</b> PyTorch, TensorFlow"
+
           link:
           
-        - item: Computational Neuroscience
+        - item: "<b>Machine Learning:</b> Scikit-learn, Scipy"
           link:
+          
+        - item: "<b>Data Manipulation and Analysis:</b>  Torch, Xarray, NumPy, Pandas"
+          link:
+          
+        - item: "<b>Visualization:</b> Matplotlib, Seaborn, Plotly"
+          link:
+          
+        - item: "<b>Software Tools:</b> Git, Jupyter Notebook"
+          link:
+          
+         - item: "<b>Computational Neuroscience:</b> fMRI data analysis, dimensionality reduction techniques, cross-validated regression methods for comparing brain and model representations, eye-tracking data analysis"
+          link:
+
           
     interests: 
       title: Interests
@@ -91,7 +105,7 @@ education:
 research:
     title: Research Experience
     info:
-      - role: Research Assisstant
+      - role: Graduate Researcher
         time: 2022 - Now
         company: Department of Cognitive Science, Johns Hopkins University 
         details: 
@@ -138,23 +152,23 @@ projects:
     title: Projects
     intro: |
     assignments:
-      - title: Modeling Visual Cortex Using Wide Untrained Neural Networks
+      - title: "<b>Modeling Visual Cortex Using Wide Untrained Neural Networks</b>"
         link: "https://github.com/akazemian/Engineered_Models"
         tagline: "untrained wide neural networks that compete with standard trained Convolutional Neural Networks at predicting image-evoked neural responses in the primate brain."
 
-      - title: A proposed neuro-imaging experiment for studying compositionality in Visual Perception
+      - title: "<b>A proposed neuro-imaging experiment for studying compositionality in Visual Perception</b>"
         link: "https://qr1.be/Q0JF"
         tagline: "an fMRI experiment proposal for exploring the compositionality of neural representations during visual perception of object relations by leveraging the power of tensor product representations."
 
-      - title: A Deep Learning Approach for Studying Face Scanning in Prosopagnosia 
+      - title: "<b>A Deep Learning Approach for Studying Face Scanning in Prosopagnosia</b>" 
         link: "https://github.com/akazemian/Scanning-Faces-and-Prosopagnosia"
         tagline: "an ensemble of CNNs to classify the scanpaths of subjects with prosopagnosia from controls using eye tracking data collected during a face recognition task. The results were used post hoc to study behavioral markers in face scanning."
 
-      - title: Bionic AI
+      - title: "<b>Bionic AI</b>"
         link: "https://github.com/akazemian/Predicting-Grasp-and-Lift-Motions-Using-EEG"
         tagline: "a (PyTorch) model for predicting intended motor movement using EEG data collected from subjects performing a series of grasp and lift motions. Data quality was increased through noise reduction, down sampling, and bandwidth filtering, leading to an AUC score of 93% using 1-dimensional convolutions"
 
-      - title: Mental State Decoder
+      - title: "<b>Mental State Decoder</b>"
         link: "https://github.com/akazemian/Decoding-Mental-State"
         tagline: "a (TensorFlow) model for predicting mental state (relaxed, focused, neutral) using data from a consumer grade EEG headband. Achieved an average AUC score of 83% despite the limited size of the data "
 
