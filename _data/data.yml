@@ -42,7 +42,7 @@ sidebar:
         - item: Computational Neuroscience
           link:
           
-    interests:
+    interests: |
       title: Interests
       info:
         - item: Climbing
@@ -91,18 +91,12 @@ education:
 research:
     title: Research Experience
     info:
-      - role: Research Coordinator
-        time: 2023 - Now
+      - role: Research Assisstant
+        time: 2022 - Now
         company: Department of Cognitive Science, Johns Hopkins University 
         details: 
-            Studying the computational architecture of the visual cortex using
-            computational methods, advised by Prof Michael Bonner.
-      - role: Graduate Student Researcher
-        time: 2022 - 2023
-        company: Department of Cognitive Science, Johns Hopkins University 
-        details: 
-            Studying the computational architecture of the visual cortex using
-            computational methods, advised by Prof Michael Bonner.
+            Studying the nature of representations in human visual cortex through computational modelings, 
+            advised by Prof Michael Bonner.
       - role: Post-Baccalaureate Researcher
         time: 2021 - 2022
         company: Department of Ophthalmology and Visual Sciences, The University of British Columbia 
@@ -147,25 +141,26 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: TEST!!!!!!!!!!!!!!!!
+      - title: Modeling Visual Cortex Using Wide Untrained Neural Networks
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: by comparing the 
+            "Desigining untrained wide neural networks that compete with standard trained Convolutional Neural Networks at predicting image-evoked neural responses in the primate brain."
 
-      - title: DevStudio
+      - title: A proposed neuro-imaging experiment for studying compositionality in Visual Perception
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Proposed an fMRI experiment for exploring the compositionality of neural representations during visual perception of object relations by leveraging the power of tensor product representations."
 
-      - title: Tempo
+      - title: A Deep Learning Approach for Studying Face Scanning in Prosopagnosia 
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Designed an ensemble of CNNs to classify the scanpaths of subjects with prosopagnosia from controls using eye tracking data collected during a face recognition task. The results were used post hoc to study behavioral markers in face scanning."
 
-      - title: Atom
+      - title: Bionic AI
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Developed a PyTorch model for predicting intended motor movement using EEG data collected from subjects performing a series of grasp and lift motions. Data quality was increased through noise reduction, down sampling, and bandwidth filtering, leading to an AUC score of 93% using 1-dimensional convolutions"
 
-      - title: Delta
+      - title: Mental State Decoder
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Developed a TensorFlow model with the above architecture for predicting mental state (relaxed, focused, neutral) using data from a consumer grade EEG headband. Achieved an average AUC score of 83% despite the limited size of the data "
 
 
 publications:
