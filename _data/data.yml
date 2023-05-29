@@ -142,25 +142,24 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Modeling Visual Cortex Using Wide Untrained Neural Networks
-        link: "#hook"
-        tagline: by comparing the 
-            "Desigining untrained wide neural networks that compete with standard trained Convolutional Neural Networks at predicting image-evoked neural responses in the primate brain."
+        link: "https://github.com/akazemian/Engineered_Models"
+        tagline: "untrained wide neural networks that compete with standard trained Convolutional Neural Networks at predicting image-evoked neural responses in the primate brain."
 
       - title: A proposed neuro-imaging experiment for studying compositionality in Visual Perception
-        link: "#"
-        tagline: "Proposed an fMRI experiment for exploring the compositionality of neural representations during visual perception of object relations by leveraging the power of tensor product representations."
+        link: "https://qr1.be/Q0JF"
+        tagline: "an fMRI experiment proposal for exploring the compositionality of neural representations during visual perception of object relations by leveraging the power of tensor product representations."
 
       - title: A Deep Learning Approach for Studying Face Scanning in Prosopagnosia 
-        link: "#"
-        tagline: "Designed an ensemble of CNNs to classify the scanpaths of subjects with prosopagnosia from controls using eye tracking data collected during a face recognition task. The results were used post hoc to study behavioral markers in face scanning."
+        link: "https://github.com/akazemian/Scanning-Faces-and-Prosopagnosia"
+        tagline: "an ensemble of CNNs to classify the scanpaths of subjects with prosopagnosia from controls using eye tracking data collected during a face recognition task. The results were used post hoc to study behavioral markers in face scanning."
 
       - title: Bionic AI
-        link: "#"
-        tagline: "Developed a PyTorch model for predicting intended motor movement using EEG data collected from subjects performing a series of grasp and lift motions. Data quality was increased through noise reduction, down sampling, and bandwidth filtering, leading to an AUC score of 93% using 1-dimensional convolutions"
+        link: "https://github.com/akazemian/Predicting-Grasp-and-Lift-Motions-Using-EEG"
+        tagline: "a (PyTorch) model for predicting intended motor movement using EEG data collected from subjects performing a series of grasp and lift motions. Data quality was increased through noise reduction, down sampling, and bandwidth filtering, leading to an AUC score of 93% using 1-dimensional convolutions"
 
       - title: Mental State Decoder
-        link: "#"
-        tagline: "Developed a TensorFlow model with the above architecture for predicting mental state (relaxed, focused, neutral) using data from a consumer grade EEG headband. Achieved an average AUC score of 83% despite the limited size of the data "
+        link: "https://github.com/akazemian/Decoding-Mental-State"
+        tagline: "a (TensorFlow) model for predicting mental state (relaxed, focused, neutral) using data from a consumer grade EEG headband. Achieved an average AUC score of 83% despite the limited size of the data "
 
 
 publications:
