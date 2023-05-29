@@ -132,43 +132,32 @@ research:
 work:
     title: Wrok Experience
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - role: Data Science Intern
+        time: 2021
+        company: AdHawk Microsystems, Toronto
+        details: 
+            Trained models on eye-tracking data collected during reading to predict
+            cognitive load and text difficulty. The project involved experimental design,
+            data collection, data preprocessing, supervised classification of sessions, and
+            presentation of results through a user-friendly interface.
+
+            
+      - role: Data Science Intern
+        time: 2021
+        company: Neobi, Vancouver
+        details: 
+            Designed pipelines for web scraping, data processing, data visualization, and
+            sentiment analysis using product information available on e-commerce
+            websites in order to draw insights about the market
+
+      - role: R&D Intern
+        time: 2019
+        company: Entuitive, Calgary
+        details: 
+            Trained a neural network on past project data to predict parking renovation
+            costs for a new project based on the buildings’ conditions, which increased
+            price estimation accuracy while saving resources spent on manual inspection.
+
 projects:
     title: Projects
     intro: >
