@@ -33,7 +33,7 @@ sidebar:
     skills:
       title: Skills
       info:
-        - item: <strong>Software:</strong>
+        - item: Software: python
           link:
 
         - item: Machine Learning: 
