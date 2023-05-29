@@ -41,6 +41,19 @@ sidebar:
 #         - idiom: Spanish
 #           level: Professional
 
+
+    skills:
+      title: Skills
+      info:
+        - item: Software
+          link:
+
+        - item: Machine Learning
+          link:
+          
+        - item: Computational Neuroscience
+          link:
+          
     interests:
       title: Interests
       info:
