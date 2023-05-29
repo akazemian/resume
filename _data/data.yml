@@ -33,13 +33,13 @@ sidebar:
     skills:
       title: Skills
       info:
-        - item: Software
+        - item: <p><strong>Software:</strong> some text </p>
           link:
 
-        - item: Machine Learning
+        - item: Machine Learning: 
           link:
           
-        - item: Computational Neuroscience
+        - item: Computational Neuroscience: 
           link:
           
     interests: |
