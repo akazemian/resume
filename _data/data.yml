@@ -168,17 +168,21 @@ publications:
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
-    Talks:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    papers:
+      - title: (Talk) Toward a computational neuroscience of visual cortex without deep learning
+        link: "https://www.visionsciences.org/presentation/?id=5455"
+        authors: Kazemian A.,Elmoznino E., Bonner M.
+        conference: Vision Sciences Society, 2023
+      - title: (Poster) Do We Need Deep Learning? Towards High-Performance Encoding Models of Visual Cortex Using Modules of
+Canonical Computations
+        link: "https://2022.ccneuro.org/proceedings/0000362.pdf"
+        authors: Kazemian A.,Elmoznino E., Bonner M.s
+        conference: Cognitive Computational Neuroscience, 2022
+      - title: (Featured Poster) Scanning Faces: Using Deep Learning to Analyze the Eye Movements of Prosopagnosic Subjects
+        link: "https://qr1.be/ZYUQ"
+        authors: Kazemian A., Barton J., Oruc I.
+        conference: North American Neuro Ophthalmology Society, 2022
 
-    Posters:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
         
 # skillsold: |
 #     title: Skills &amp; Proficiency
