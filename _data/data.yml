@@ -33,7 +33,7 @@ sidebar:
     skills:
       title: Skills
       info:
-        - item: "<b>Software</b>"
+        - item: "<b>Software</b> some text"
           link:
 
         - item: Machine Learning
@@ -42,7 +42,7 @@ sidebar:
         - item: Computational Neuroscience
           link:
           
-    interests: |
+    interests: 
       title: Interests
       info:
         - item: Knowledge representation and generalization in humans and machines
