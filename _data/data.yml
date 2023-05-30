@@ -132,7 +132,7 @@ work:
         time: 2021
         company: Neobi, Vancouver
         details: 
-            "Utilized online product information from a multitude of e-commerce websites to draw insights about the canadian cannabis market. Designed pipelines for web scraping, data processing, data visualization, and sentiment analysis"
+            "Utilized online product information from a multitude of e-commerce websites to draw insights about the canadian cannabis market. Designed pipelines for web scraping, data processing, data visualization, and sentiment analysis."
 
       - role: R&D Intern
         time: 2019
@@ -148,13 +148,13 @@ projects:
         link: "https://github.com/akazemian/Engineered_Models"
         tagline: "Developing learning-free models that compete with standard trained Convolutional Neural Networks at predicting image-evoked neural responses in the primate brain."
 
-      - title: "A proposed neuro-imaging experiment for studying compositionality in visual perception"
-        link: "https://qr1.be/Q0JF"
-        tagline: "Designed an fMRI experiment proposal for exploring the compositionality of neural representations during visual perception of object relations."
-
       - title: "A deep learning approach for studying face scanning in prosopagnosia" 
         link: "https://github.com/akazemian/Scanning-Faces-and-Prosopagnosia"
         tagline: "Developed an ensemble of CNNs to distinguish subjects with prosopagnosia from healthy controls using their gaze pattern during a face recognition task. The results were used post hoc to study prosopagnosic behavioral markers during face scanning."
+
+      - title: "A proposed neuro-imaging experiment for studying compositionality in visual perception"
+        link: "https://qr1.be/Q0JF"
+        tagline: "Designed an fMRI experiment proposal for exploring the compositionality of neural representations during visual perception of object relations."
 
       - title: "Bionic AI"
         link: "https://github.com/akazemian/Predicting-Grasp-and-Lift-Motions-Using-EEG"
