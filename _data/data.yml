@@ -138,7 +138,7 @@ work:
         time: 2019
         company: Entuitive, Calgary
         details: 
-            "Automated project cost estimation by training neural networks to predict parking renovation cost based on a buildings’ conditions."
+            "Automated project cost estimation by training neural networks to predict parking renovation cost based on a building’s conditions."
 
 projects:
     title: "Projects"
@@ -146,34 +146,34 @@ projects:
     assignments:
       - title: "Modeling visual cortex using wide untrained neural networks"
         link: "https://github.com/akazemian/Engineered_Models"
-        tagline: "learning-free models that compete with standard trained Convolutional Neural Networks at predicting image-evoked neural responses in the primate brain."
+        tagline: "Developing learning-free models that compete with standard trained Convolutional Neural Networks at predicting image-evoked neural responses in the primate brain."
 
       - title: "A proposed neuro-imaging experiment for studying compositionality in visual perception"
         link: "https://qr1.be/Q0JF"
-        tagline: "an fMRI experiment proposal for exploring the compositionality of neural representations during visual perception of object relations."
+        tagline: "Designed an fMRI experiment proposal for exploring the compositionality of neural representations during visual perception of object relations."
 
       - title: "A deep learning approach for studying face scanning in prosopagnosia" 
         link: "https://github.com/akazemian/Scanning-Faces-and-Prosopagnosia"
-        tagline: "an ensemble of CNNs to distinguish subjects with prosopagnosia from healthy controls using their gaze pattern during a face recognition task. The results were used post hoc to study prosopagnosic behavioral markers during face scanning."
+        tagline: "Developed an ensemble of CNNs to distinguish subjects with prosopagnosia from healthy controls using their gaze pattern during a face recognition task. The results were used post hoc to study prosopagnosic behavioral markers during face scanning."
 
       - title: "Bionic AI"
         link: "https://github.com/akazemian/Predicting-Grasp-and-Lift-Motions-Using-EEG"
-        tagline: "a (PyTorch) model for predicting intended motor movement using EEG data collected from subjects while performing a series of grasp and lift motions."
+        tagline: "Designed a (PyTorch) model for predicting intended motor movement using EEG data collected from subjects while performing a series of grasp and lift motions."
 
       - title: "Mental state decoder"
         link: "https://github.com/akazemian/Decoding-Mental-State"
-        tagline: "a (TensorFlow) model for predicting mental state (relaxed, focused, neutral) using data collected from a consumer grade EEG headband."
+        tagline: "Designed a (TensorFlow) model for predicting mental state (relaxed, focused, neutral) using data collected from a consumer grade EEG headband."
 
 
 publications:
     title: "Conference Talks and Posters"
     intro: |
     papers:
-      - title: (Talk) Toward a computational neuroscience of visual cortex without deep learning
+      - title: "(Talk) Toward a computational neuroscience of visual cortex without deep learning"
         link: "https://www.visionsciences.org/presentation/?id=5455"
         authors: Kazemian A.,Elmoznino E., Bonner M.
         conference: Vision Sciences Society, 2023
-      - title: (Poster) Do we need deep learning? Towards high-performance encoding models of visual cortex using modules of canonical computations
+      - title: "(Poster) Towards high-performance encoding models of visual cortex using modules of canonical computations"
         link: "https://2022.ccneuro.org/proceedings/0000362.pdf"
         authors: Kazemian A.,Elmoznino E., Bonner M.s
         conference: Cognitive Computational Neuroscience, 2022
