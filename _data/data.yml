@@ -132,7 +132,7 @@ work:
         time: 2021
         company: Neobi, Vancouver
         details: 
-            "Designed pipelines for web scraping, data processing, data visualization, and sentiment analysis using product information available on e-commerce websites in order to draw insights about the market"
+            "Utilized online product information from a multitude of e-commerce websites to draw insights about the canadian cannabis market. Designed pipelines for web scraping, data processing, data visualization, and sentiment analysis"
 
       - role: R&D Intern
         time: 2019
