@@ -102,7 +102,7 @@ education:
             - Bullet point
             - Bullet point
 research:
-    title: Research Experience
+    title: "<b>Research Experience</b>"
     info:
       - role: Graduate Researcher
         time: 2022 - Now
@@ -119,7 +119,7 @@ research:
             Barton and Prof. Ipek Oruc.
             
 work:
-    title: Work Experience
+    title: "<b>Work Experience<b>"
     info:
       - role: Data Science Intern
         time: 2021
@@ -141,32 +141,32 @@ work:
             "Automated project cost estimation by training neural networks to predict parking renovation cost based on a buildings’ conditions."
 
 projects:
-    title: Projects
+    title: "<b>Projects</b>"
     intro: |
     assignments:
-      - title: "<b>Modeling visual cortex using wide untrained neural networks</b>"
+      - title: "Modeling visual cortex using wide untrained neural networks"
         link: "https://github.com/akazemian/Engineered_Models"
         tagline: "learning-free models that compete with standard trained Convolutional Neural Networks at predicting image-evoked neural responses in the primate brain."
 
-      - title: "<b>A proposed neuro-imaging experiment for studying compositionality in visual perception</b>"
+      - title: "A proposed neuro-imaging experiment for studying compositionality in visual perception"
         link: "https://qr1.be/Q0JF"
         tagline: "an fMRI experiment proposal for exploring the compositionality of neural representations during visual perception of object relations."
 
-      - title: "<b>A deep learning approach for studying face scanning in prosopagnosia</b>" 
+      - title: "A deep learning approach for studying face scanning in prosopagnosia" 
         link: "https://github.com/akazemian/Scanning-Faces-and-Prosopagnosia"
         tagline: "an ensemble of CNNs to distinguish subjects with prosopagnosia from healthy controls using their gaze pattern during a face recognition task. The results were used post hoc to study prosopagnosic behavioral markers during face scanning."
 
-      - title: "<b>Bionic AI</b>"
+      - title: "Bionic AI"
         link: "https://github.com/akazemian/Predicting-Grasp-and-Lift-Motions-Using-EEG"
         tagline: "a (PyTorch) model for predicting intended motor movement using EEG data collected from subjects while performing a series of grasp and lift motions."
 
-      - title: "<b>Mental state decoder</b>"
+      - title: "Mental state decoder"
         link: "https://github.com/akazemian/Decoding-Mental-State"
         tagline: "a (TensorFlow) model for predicting mental state (relaxed, focused, neutral) using data collected from a consumer grade EEG headband."
 
 
 publications:
-    title: Conference Talks and Posters
+    title: "<b>Conference Talks and Posters</b>"
     intro: |
     papers:
       - title: (Talk) Toward a computational neuroscience of visual cortex without deep learning
