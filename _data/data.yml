@@ -79,7 +79,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MA in Cognitive Science
+      - degree: MA - Cognitive Science
         university: Johns Hopkins University
         time: 2022 - 2023
         details: |
@@ -90,7 +90,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BAS in Integrated Engineering
+      - degree: BAS - Integrated Engineering
         university: University of British Columbia
         time: 2015 - 2020
         details: |
@@ -125,27 +125,20 @@ work:
         time: 2021
         company: AdHawk Microsystems, Toronto
         details: 
-            Trained models on eye-tracking data collected during reading to predict
-            cognitive load and text difficulty. The project involved experimental design,
-            data collection, data preprocessing, supervised classification of sessions, and
-            presentation of results through a user-friendly interface.
+            "Modeled people's reading behavior as a function of cognitive load and text difficulty using eye-tracking. The project involved experimental design, data collection and processing, supervised classification of trials, and presentation of results through a user-friendly interface." 
 
             
       - role: Data Science Intern
         time: 2021
         company: Neobi, Vancouver
         details: 
-            Designed pipelines for web scraping, data processing, data visualization, and
-            sentiment analysis using product information available on e-commerce
-            websites in order to draw insights about the market
+            "Designed pipelines for web scraping, data processing, data visualization, and sentiment analysis using product information available on e-commerce websites in order to draw insights about the market"
 
       - role: R&D Intern
         time: 2019
         company: Entuitive, Calgary
         details: 
-            Trained a neural network on past project data to predict parking renovation
-            costs for a new project based on the buildings’ conditions, which increased
-            price estimation accuracy while saving resources spent on manual inspection.
+            "Automated project cost estimation by training neural networks to predict parking renovation cost based on a buildings’ conditions."
 
 projects:
     title: Projects
@@ -153,23 +146,23 @@ projects:
     assignments:
       - title: "<b>Modeling Visual Cortex Using Wide Untrained Neural Networks</b>"
         link: "https://github.com/akazemian/Engineered_Models"
-        tagline: "untrained wide neural networks that compete with standard trained Convolutional Neural Networks at predicting image-evoked neural responses in the primate brain."
+        tagline: "learning-free models that compete with standard trained Convolutional Neural Networks at predicting image-evoked neural responses in the primate brain."
 
       - title: "<b>A proposed neuro-imaging experiment for studying compositionality in Visual Perception</b>"
         link: "https://qr1.be/Q0JF"
-        tagline: "an fMRI experiment proposal for exploring the compositionality of neural representations during visual perception of object relations by leveraging the power of tensor product representations."
+        tagline: "an fMRI experiment proposal for exploring the compositionality of neural representations during visual perception of object relations."
 
       - title: "<b>A Deep Learning Approach for Studying Face Scanning in Prosopagnosia</b>" 
         link: "https://github.com/akazemian/Scanning-Faces-and-Prosopagnosia"
-        tagline: "an ensemble of CNNs to classify the scanpaths of subjects with prosopagnosia from controls using eye tracking data collected during a face recognition task. The results were used post hoc to study behavioral markers in face scanning."
+        tagline: "an ensemble of CNNs to distinguish subjects with prosopagnosia from healthy controls using their gaze pattern during a face recognition task. The results were used post hoc to study prosopagnosic behavioral markers during face scanning."
 
       - title: "<b>Bionic AI</b>"
         link: "https://github.com/akazemian/Predicting-Grasp-and-Lift-Motions-Using-EEG"
-        tagline: "a (PyTorch) model for predicting intended motor movement using EEG data collected from subjects performing a series of grasp and lift motions. Data quality was increased through noise reduction, down sampling, and bandwidth filtering, leading to an AUC score of 93% using 1-dimensional convolutions"
+        tagline: "a (PyTorch) model for predicting intended motor movement using EEG data collected from subjects while performing a series of grasp and lift motions."
 
       - title: "<b>Mental State Decoder</b>"
         link: "https://github.com/akazemian/Decoding-Mental-State"
-        tagline: "a (TensorFlow) model for predicting mental state (relaxed, focused, neutral) using data from a consumer grade EEG headband. Achieved an average AUC score of 83% despite the limited size of the data "
+        tagline: "a (TensorFlow) model for predicting mental state (relaxed, focused, neutral) using data collected from a consumer grade EEG headband."
 
 
 publications:
@@ -180,11 +173,11 @@ publications:
         link: "https://www.visionsciences.org/presentation/?id=5455"
         authors: Kazemian A.,Elmoznino E., Bonner M.
         conference: Vision Sciences Society, 2023
-      - title: (Poster) Do We Need Deep Learning? Towards High-Performance Encoding Models of Visual Cortex Using Modules of Canonical Computations
+      - title: (Poster) Do we need deep learning? Towards high-performance encoding models of visual cortex using modules of canonical computations
         link: "https://2022.ccneuro.org/proceedings/0000362.pdf"
         authors: Kazemian A.,Elmoznino E., Bonner M.s
         conference: Cognitive Computational Neuroscience, 2022
-      - title: "(Featured Poster) Scanning Faces: Using Deep Learning to Analyze the Eye Movements of Prosopagnosic Subjects"
+      - title: "(Featured Poster) Scanning faces: using deep learning to analyze the eye movements of prosopagnosic subjects"
         link: "https://qr1.be/ZYUQ"
         authors: Kazemian A., Barton J., Oruc I.
         conference: North American Neuro Ophthalmology Society, 2022
@@ -212,5 +205,5 @@ publications:
 #       - name: Sketch & Photoshop
 #         level: 60%
 
-footer: |
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: 
+    
