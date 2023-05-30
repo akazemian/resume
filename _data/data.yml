@@ -144,15 +144,15 @@ projects:
     title: Projects
     intro: |
     assignments:
-      - title: "<b>Modeling Visual Cortex Using Wide Untrained Neural Networks</b>"
+      - title: "<b>Modeling visual cortex using wide untrained neural networks</b>"
         link: "https://github.com/akazemian/Engineered_Models"
         tagline: "learning-free models that compete with standard trained Convolutional Neural Networks at predicting image-evoked neural responses in the primate brain."
 
-      - title: "<b>A proposed neuro-imaging experiment for studying compositionality in Visual Perception</b>"
+      - title: "<b>A proposed neuro-imaging experiment for studying compositionality in visual perception</b>"
         link: "https://qr1.be/Q0JF"
         tagline: "an fMRI experiment proposal for exploring the compositionality of neural representations during visual perception of object relations."
 
-      - title: "<b>A Deep Learning Approach for Studying Face Scanning in Prosopagnosia</b>" 
+      - title: "<b>A deep learning approach for studying face scanning in prosopagnosia</b>" 
         link: "https://github.com/akazemian/Scanning-Faces-and-Prosopagnosia"
         tagline: "an ensemble of CNNs to distinguish subjects with prosopagnosia from healthy controls using their gaze pattern during a face recognition task. The results were used post hoc to study prosopagnosic behavioral markers during face scanning."
 
@@ -160,7 +160,7 @@ projects:
         link: "https://github.com/akazemian/Predicting-Grasp-and-Lift-Motions-Using-EEG"
         tagline: "a (PyTorch) model for predicting intended motor movement using EEG data collected from subjects while performing a series of grasp and lift motions."
 
-      - title: "<b>Mental State Decoder</b>"
+      - title: "<b>Mental state decoder</b>"
         link: "https://github.com/akazemian/Decoding-Mental-State"
         tagline: "a (TensorFlow) model for predicting mental state (relaxed, focused, neutral) using data collected from a consumer grade EEG headband."
 
