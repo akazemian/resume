@@ -115,7 +115,7 @@ research:
         details: 
             Studying the nature of representations in human visual cortex through computational modeling, 
             advised by Prof Michael Bonner.
-      - role: Post-Baccalaureate Researcher
+      - role: Post-baccalaureate Researcher
         time: 2021 - 2022
         company: Department of Ophthalmology and Visual Sciences, The University of British Columbia 
         details:
@@ -130,7 +130,9 @@ work:
         time: 2021
         company: AdHawk Microsystems, Toronto
         details: 
-            "Modeled people's reading behavior as a function of cognitive load and text difficulty using eye-tracking. The project involved experimental design, data collection and processing, supervised classification of trials, and presentation of results through a user-friendly interface." 
+             "Modeled people's reading behavior as a function of cognitive load and text difficulty using eye-tracking."
+             "- Designed the experiment, collected and processed eyetracking data, trained supervised models to classify trials, and presented  the results through a user-friendly dashboard."
+             "- The project demonstrated a potential usecase for the AdHawk eyetracking glasses and attracted iterest from potential customers"
 
             
       - role: Data Science Intern
