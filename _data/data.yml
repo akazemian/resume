@@ -108,7 +108,7 @@ research:
         time: 2022 - Now
         company: Department of Cognitive Science, Johns Hopkins University 
         details: 
-            Studying the nature of representations in human visual cortex through computational modelings, 
+            Studying the nature of representations in human visual cortex through computational modeling, 
             advised by Prof Michael Bonner.
       - role: Post-Baccalaureate Researcher
         time: 2021 - 2022
@@ -144,7 +144,7 @@ projects:
     title: "Projects"
     intro: |
     assignments:
-      - title: "Modeling visual cortex using wide untrained neural networks"
+      - title: "<u>Modeling visual cortex using wide untrained neural networks</u>"
         link: "https://github.com/akazemian/Engineered_Models"
         tagline: "Developing learning-free models that compete with standard trained Convolutional Neural Networks at predicting image-evoked neural responses in the primate brain."
 
