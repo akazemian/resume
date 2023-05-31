@@ -123,27 +123,22 @@ research:
             prosopagnosia (face agnosia) using deep learning, advised by Prof. Jason 
             Barton and Prof. Ipek Oruc.
             
-work:
-    title: "Work Experience"
-    info:
-      - role: Data Science Intern
-        time: 2021
-        company: AdHawk Microsystems, Toronto
-        details: 
-             "Modeled people's reading behavior as a function of cognitive load and text difficulty using eye-tracking. <br>- Designed the experiment, collected and processed eyetracking data, trained supervised models to classify trials, and presented the results through a user-friendly dashboard. The project demonstrated a potential usecase for the AdHawk eyetracking glasses and attracted iterest from potential customers"
-
-            
-      - role: Data Science Intern
-        time: 2021
-        company: Neobi, Vancouver
-        details: 
-            "Utilized online product information from a multitude of e-commerce websites to draw insights about the canadian cannabis market. <br>- Improved pipelines for web scraping and data processing, resulting in less anomalies <br>- Performed topic modeling and sentiment analysis of online customer reviews and presentied them through a data visualization dashboard, revealing insightful information about market trends."
-
-      - role: R&D Intern
-        time: 2019
-        company: Entuitive, Calgary
-        details: 
-            "Automated the price estimation workflow for parking rennovations. <br> - Trained neural networks to predict parking renovation cost based on a building’s conditions, resulting in more accurate price estimates and eliminating manual inspection costs"
+publications:
+    title: "Conference Talks and Posters"
+    intro: |
+    papers:
+      - title: "(Talk) Toward a computational neuroscience of visual cortex without deep learning"
+        link: "https://www.visionsciences.org/presentation/?id=5455"
+        authors: Kazemian A.,Elmoznino E., Bonner M.
+        conference: Vision Sciences Society, 2023
+      - title: "(Poster) Towards high-performance encoding models of visual cortex using modules of canonical computations"
+        link: "https://2022.ccneuro.org/proceedings/0000362.pdf"
+        authors: Kazemian A.,Elmoznino E., Bonner M.s
+        conference: Cognitive Computational Neuroscience, 2022
+      - title: "(Featured Poster) Scanning faces: using deep learning to analyze the eye movements of prosopagnosic subjects"
+        link: "https://qr1.be/ZYUQ"
+        authors: Kazemian A., Barton J., Oruc I.
+        conference: North American Neuro Ophthalmology Society, 2022
 
 projects:
     title: "Projects"
@@ -169,23 +164,28 @@ projects:
         link: "https://github.com/akazemian/Decoding-Mental-State"
         tagline: "Designed a (TensorFlow) model for predicting mental state (relaxed, focused, neutral) using data collected from a consumer grade EEG headband."
 
+work:
+    title: "Work Experience"
+    info:
+      - role: Data Science Intern
+        time: 2021
+        company: AdHawk Microsystems, Toronto
+        details: 
+             "Modeled people's reading behavior as a function of cognitive load and text difficulty using eye-tracking. <br>- Designed the experiment, collected and processed eyetracking data, trained supervised models to classify trials, and presented the results through a user-friendly dashboard. The project demonstrated a potential usecase for the AdHawk eyetracking glasses and attracted iterest from potential customers"
 
-publications:
-    title: "Conference Talks and Posters"
-    intro: |
-    papers:
-      - title: "(Talk) Toward a computational neuroscience of visual cortex without deep learning"
-        link: "https://www.visionsciences.org/presentation/?id=5455"
-        authors: Kazemian A.,Elmoznino E., Bonner M.
-        conference: Vision Sciences Society, 2023
-      - title: "(Poster) Towards high-performance encoding models of visual cortex using modules of canonical computations"
-        link: "https://2022.ccneuro.org/proceedings/0000362.pdf"
-        authors: Kazemian A.,Elmoznino E., Bonner M.s
-        conference: Cognitive Computational Neuroscience, 2022
-      - title: "(Featured Poster) Scanning faces: using deep learning to analyze the eye movements of prosopagnosic subjects"
-        link: "https://qr1.be/ZYUQ"
-        authors: Kazemian A., Barton J., Oruc I.
-        conference: North American Neuro Ophthalmology Society, 2022
+            
+      - role: Data Science Intern
+        time: 2021
+        company: Neobi, Vancouver
+        details: 
+            "Utilized online product information from a multitude of e-commerce websites to draw insights about the canadian cannabis market. <br>- Improved pipelines for web scraping and data processing, resulting in less anomalies <br>- Performed topic modeling and sentiment analysis of online customer reviews and presentied them through a data visualization dashboard, revealing insightful information about market trends."
+
+      - role: R&D Intern
+        time: 2019
+        company: Entuitive, Calgary
+        details: 
+            "Automated the price estimation workflow for parking rennovations. <br> - Trained neural networks to predict parking renovation cost based on a building’s conditions, resulting in more accurate price estimates and eliminating manual inspection costs"
+
 
 
 
