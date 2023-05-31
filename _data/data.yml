@@ -70,7 +70,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: 
-I am a cognitive science researcher 
+I am a cognitive science researcher working at the intersection of biological and artificial intelligence. 
+My background entails a combination of academic research and industry internships, thourgh which I have acquired expertise 
+in tackling scientific questions using a technical mindset. I am most passionate about understanding how 
+information is represented in the human brain and deep neural networks, and how to close the gap between their performance 
+across a wide range of tasks. I hope to apply my skills towards developing AI that can process information with 
+the same robustness and generalization power as humans, and can ultimately compelement our abilities across a multitude of 
+industries and applications. 
+
+
 education:
     title: Education
     info:
