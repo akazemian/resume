@@ -143,7 +143,7 @@ work:
         time: 2019
         company: Entuitive, Calgary
         details: 
-            "Automated project cost estimation by training neural networks to predict parking renovation cost based on a building’s conditions, resulting in more accurate price estimates and eliminating manual inspection costs"
+            "Automated the price estimation workflow for parking rennovations. <br> - Trained neural networks to predict parking renovation cost based on a building’s conditions, resulting in more accurate price estimates and eliminating manual inspection costs</br>"
 
 projects:
     title: "Projects"
