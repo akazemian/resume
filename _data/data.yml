@@ -148,19 +148,19 @@ projects:
         link: "https://github.com/akazemian/Engineered_Models"
         tagline: "Developing learning-free models that compete with standard trained Convolutional Neural Networks at predicting image-evoked neural responses in the primate brain."
 
-      - title: "A deep learning approach for studying face scanning in prosopagnosia" 
+      - title: "<u>A deep learning approach for studying face scanning in prosopagnosia</u>" 
         link: "https://github.com/akazemian/Scanning-Faces-and-Prosopagnosia"
         tagline: "Developed an ensemble of CNNs to distinguish subjects with prosopagnosia from healthy controls using their gaze pattern during a face recognition task. The results were used post hoc to study prosopagnosic behavioral markers during face scanning."
 
-      - title: "A proposed neuro-imaging experiment for studying compositionality in visual perception"
+      - title: "<u>A proposed neuro-imaging experiment for studying compositionality in visual perception</u>"
         link: "https://qr1.be/Q0JF"
         tagline: "Designed an fMRI experiment proposal for exploring the compositionality of neural representations during visual perception of object relations."
 
-      - title: "Bionic AI"
-        link: "https://github.com/akazemian/Predicting-Grasp-and-Lift-Motions-Using-EEG"
+      - title: "<u>Bionic AI</u>"
+        link: "<u>https://github.com/akazemian/Predicting-Grasp-and-Lift-Motions-Using-EEG</u>"
         tagline: "Designed a (PyTorch) model for predicting intended motor movement using EEG data collected from subjects while performing a series of grasp and lift motions."
 
-      - title: "Mental state decoder"
+      - title: "<u>Mental state decoder</u>"
         link: "https://github.com/akazemian/Decoding-Mental-State"
         tagline: "Designed a (TensorFlow) model for predicting mental state (relaxed, focused, neutral) using data collected from a consumer grade EEG headband."
 
