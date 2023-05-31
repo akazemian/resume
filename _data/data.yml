@@ -71,8 +71,8 @@ career-profile:
     title: Career Profile
     summary: 
         I am a cognitive science researcher working at the intersection of biological and artificial intelligence. 
-        My background entails a combination of academic research and industry internships, thourgh which I have acquired expertise 
-        in tackling scientific questions using a technical mindset. I am most passionate closing the gap between the performance 
+        My background entails a combination of academic research and industry internships, through which I have acquired expertise 
+        in tackling scientific questions using a technical mindset. I am passionate about closing the gap between the performance 
         of humans and deep neural network across a wide range of tasks. My goal is to apply my skills towards developing AI that can process information with 
         the same robustness and generalization power as humans, and can ultimately compelement our abilities across a multitude of 
         industries and applications. 
@@ -130,7 +130,7 @@ work:
         time: 2021
         company: AdHawk Microsystems, Toronto
         details: 
-             "Modeled people's reading behavior as a function of cognitive load and text difficulty using eye-tracking. <br><ul><li> Designed the experiment, collected and processed eyetracking data, trained supervised models to classify trials, and presented the results through a user-friendly dashboard.</li> <br><li> The project demonstrated a potential usecase for the AdHawk eyetracking glasses and attracted iterest from potential customers</li></ul>"
+             "Modeled people's reading behavior as a function of cognitive load and text difficulty using eye-tracking. <br>    - Designed the experiment, collected and processed eyetracking data, trained supervised models to classify trials, and presented the results through a user-friendly dashboard.</li>    - The project demonstrated a potential usecase for the AdHawk eyetracking glasses and attracted iterest from potential customers"
 
             
       - role: Data Science Intern
