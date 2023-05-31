@@ -130,20 +130,20 @@ work:
         time: 2021
         company: AdHawk Microsystems, Toronto
         details: 
-             "Modeled people's reading behavior as a function of cognitive load and text difficulty using eye-tracking. <br>- Designed the experiment, collected and processed eyetracking data, trained supervised models to classify trials, and presented the results through a user-friendly dashboard. The project demonstrated a potential usecase for the AdHawk eyetracking glasses and attracted iterest from potential customers</br>"
+             "Modeled people's reading behavior as a function of cognitive load and text difficulty using eye-tracking. <br>- Designed the experiment, collected and processed eyetracking data, trained supervised models to classify trials, and presented the results through a user-friendly dashboard. The project demonstrated a potential usecase for the AdHawk eyetracking glasses and attracted iterest from potential customers"
 
             
       - role: Data Science Intern
         time: 2021
         company: Neobi, Vancouver
         details: 
-            "Utilized online product information from a multitude of e-commerce websites to draw insights about the canadian cannabis market. <br>- Improved pipelines for web scraping and data processing, resulting in less anomalies</br><br>- Created a data visualization dashboard through topic modeling and sentiment analysis of online customer reviews,  revealing more insightful information about market trends.</br>"
+            "Utilized online product information from a multitude of e-commerce websites to draw insights about the canadian cannabis market. <br>- Improved pipelines for web scraping and data processing, resulting in less anomalies <br>- Performed topic modeling and sentiment analysis of online customer reviews and presentied them through a data visualization dashboard, revealing insightful information about market trends."
 
       - role: R&D Intern
         time: 2019
         company: Entuitive, Calgary
         details: 
-            "Automated the price estimation workflow for parking rennovations. <br> - Trained neural networks to predict parking renovation cost based on a building’s conditions, resulting in more accurate price estimates and eliminating manual inspection costs</br>"
+            "Automated the price estimation workflow for parking rennovations. <br> - Trained neural networks to predict parking renovation cost based on a building’s conditions, resulting in more accurate price estimates and eliminating manual inspection costs"
 
 projects:
     title: "Projects"
