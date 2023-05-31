@@ -72,9 +72,8 @@ career-profile:
     summary: 
         I am a cognitive science researcher working at the intersection of biological and artificial intelligence. 
         My background entails a combination of academic research and industry internships, thourgh which I have acquired expertise 
-        in tackling scientific questions using a technical mindset. I am most passionate about understanding how 
-        information is represented in the human brain and deep neural networks, and how to close the gap between their performance 
-        across a wide range of tasks. I hope to apply my skills towards developing AI that can process information with 
+        in tackling scientific questions using a technical mindset. I am most passionate closing the gap between the performance 
+        of humans and deep neural network across a wide range of tasks. My goal is to apply my skills towards developing AI that can process information with 
         the same robustness and generalization power as humans, and can ultimately compelement our abilities across a multitude of 
         industries and applications. 
 
@@ -188,28 +187,7 @@ publications:
         authors: Kazemian A., Barton J., Oruc I.
         conference: North American Neuro Ophthalmology Society, 2022
 
-        
-# skillsold: |
-#     title: Skills &amp; Proficiency
 
-#     toolset:
-#       - name: Python & Django
-#         level: 98%
-
-#       - name: Javascript & jQuery
-#         level: 98%
-
-#       - name: Angular
-#         level: 98%
-
-#       - name: HTML5 & CSS
-#         level: 95%
-
-#       - name: Ruby on Rails
-#         level: 85%
-
-#       - name: Sketch & Photoshop
-#         level: 60%
 
 footer: 
     
