@@ -68,14 +68,9 @@ sidebar:
           link:
 
 career-profile:
-#     title: Career Profile
-#     summary: |
-#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
-#       adipiscing elit. You can [download this free resume/CV template here]().
-#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-#       Donec quam felis, ultricies nec, pellentesque eu.
-#       Second paragraph if required.
+    title: Career Profile
+    summary: 
+I am a cognitive science researcher 
 education:
     title: Education
     info:
@@ -90,6 +85,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
+      - degree: Diploma - Data Science
+        university: Lighthouse Labs
+        time: 2020 - 2021 
       - degree: BAS - Integrated Engineering
         university: University of British Columbia
         time: 2015 - 2020
