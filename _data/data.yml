@@ -126,11 +126,11 @@ publications:
     title: "Conference Talks and Posters"
     intro: |
     papers:
-      - title: "(keynote tutorial) A high dimensional view of computational neuroscience"
+      - title: "(Keynote Tutorial) A high dimensional view of computational neuroscience"
         utlink: "https://bonnerlab.github.io/ccn-tutorial/" 
         authors: Gauthaman R.M., Kazemian A.,Chen Z., Guth F., Bonner M.
         conference: Computational Cognitive Neuroscience, 2023
-     - title: "(Talk) Toward a computational neuroscience of visual cortex without deep learning"
+      - title: "(Talk) Toward a computational neuroscience of visual cortex without deep learning"
         utlink: "https://www.visionsciences.org/presentation/?id=5455"
         authors: Kazemian A.,Elmoznino E., Bonner M.
         conference: Vision Sciences Society, 2023
