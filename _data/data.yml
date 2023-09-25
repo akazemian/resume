@@ -70,12 +70,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: 
-        I am a cognitive science researcher working at the intersection of biological and artificial intelligence. 
-        My background entails a combination of academic research and industry internships, through which I have acquired expertise 
-        in tackling scientific questions using a technical mindset. I am passionate about closing the gap between the performance 
-        of humans and deep neural network across a wide range of tasks. My goal is to apply my skills towards developing AI that can process information with 
-        the same robustness and generalization power as humans, and can ultimately compelement our abilities across a multitude of 
-        industries and applications. 
+        I’m a cognitive science researcher interested in understanding how brains and machines encode and process information. 
+        Humans possess the ability to seamlessly make sense of a diverse array of visual stimuli, and generalize exisiting 
+        knowledege to new situations. On the other hand, current large-scale deep learning models exhibit certain human-like 
+        behaviors after training on massive datasets. My passion lies in studying the similarities and differences between 
+        the representations and behaviors of these two systems.
 
 
 education:
@@ -127,13 +126,17 @@ publications:
     title: "Conference Talks and Posters"
     intro: |
     papers:
-      - title: "(Talk) Toward a computational neuroscience of visual cortex without deep learning"
-        link: "https://www.visionsciences.org/presentation/?id=5455"
+      - title: "(keynote tutorial) A high dimensional view of computational neuroscience"
+        utlink: "https://bonnerlab.github.io/ccn-tutorial/" 
+        authors: Gauthaman R.M., Kazemian A.,Chen Z., Guth F., Bonner M.
+        conference: Computational Cognitive Neuroscience, 2023
+     - title: "(Talk) Toward a computational neuroscience of visual cortex without deep learning"
+        utlink: "https://www.visionsciences.org/presentation/?id=5455"
         authors: Kazemian A.,Elmoznino E., Bonner M.
         conference: Vision Sciences Society, 2023
       - title: "(Poster) Towards high-performance encoding models of visual cortex using modules of canonical computations"
         link: "https://2022.ccneuro.org/proceedings/0000362.pdf"
-        authors: Kazemian A.,Elmoznino E., Bonner M.s
+        authors: Kazemian A.,Elmoznino E., Bonner M.
         conference: Cognitive Computational Neuroscience, 2022
       - title: "(Featured Poster) Scanning faces: using deep learning to analyze the eye movements of prosopagnosic subjects"
         link: "https://qr1.be/ZYUQ"
@@ -146,7 +149,7 @@ projects:
     assignments:
       - title: "<u>Modeling visual cortex using wide untrained neural networks</u> (2022-Now)"
         link: "https://github.com/akazemian/Engineered_Models"
-        tagline: "Developing learning-free models that compete with standard trained Convolutional Neural Networks at predicting image-evoked neural responses in the primate brain."
+        tagline: "Developing learning-free Convolutional Neural Networks (CNNs) that compete with standard trained models at predicting image-evoked neural responses in the primate brain."
 
       - title: "<u>A deep learning approach for studying face scanning in prosopagnosia</u> (2021-2022)" 
         link: "https://github.com/akazemian/Scanning-Faces-and-Prosopagnosia"
