@@ -70,7 +70,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: 
-        A cognitive science researcher with an engineering background and 3 years of research experience at the intersection of biological and artificil intelligence. 
+        A cognitive science researcher with a multidisciplinary background of engineering and data science and 3 years of research experience at the intersection of biological and artificil intelligence. 
         Proficient in using PyTorch for Deep learning, specifilllay for desiging biologically inspired computer vision models. 
         Passionate about bridging the gap between human and machine visual behavior in order to produce more robust, general purpose computer vision.
 
@@ -124,19 +124,19 @@ publications:
     title: "Conference Talks and Posters"
     intro: |
     papers:
-        - title: "(Keynote Tutorial Presentation) A high dimensional view of computational neuroscience"
-          utlink: "https://2023.ccneuro.org/kt3.php" 
+        - title: "(Keynote Tutorial Presentation) <u>A high dimensional view of computational neuroscience</u>"
+          link: "https://2023.ccneuro.org/kt3.php"
           authors: Gauthaman R.M., Kazemian A.,Chen Z., Guth F., Bonner M.
           conference: Computational Cognitive Neuroscience, 2023
-        - title: "(Talk) Toward a computational neuroscience of visual cortex without deep learning"
-          utlink: "https://www.visionsciences.org/presentation/?id=5455"
+        - title: "(Talk) <u>Toward a computational neuroscience of visual cortex without deep learning</u>"
+          link: "https://www.visionsciences.org/presentation/?id=5455"
           authors: Kazemian A.,Elmoznino E., Bonner M.
           conference: Vision Sciences Society, 2023
-        - title: "(Poster) Towards high-performance encoding models of visual cortex using modules of canonical computations"
+        - title: "(Poster) <u>Towards high-performance encoding models of visual cortex using modules of canonical computations</u>"
           link: "https://2022.ccneuro.org/proceedings/0000362.pdf"
           authors: Kazemian A.,Elmoznino E., Bonner M.
           conference: Cognitive Computational Neuroscience, 2022
-        - title: "(Featured Poster) Scanning faces: using deep learning to analyze the eye movements of prosopagnosic subjects"
+        - title: "(Featured Poster) <u>Scanning faces: using deep learning to analyze the eye movements of prosopagnosic subjects</u>"
           link: "https://qr1.be/ZYUQ"
           authors: Kazemian A., Barton J., Oruc I.
           conference: North American Neuro Ophthalmology Society, 2022
