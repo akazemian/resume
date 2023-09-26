@@ -125,7 +125,7 @@ publications:
     intro: |
     papers:
         - title: "(Keynote Tutorial Presentation) A high dimensional view of computational neuroscience"
-          utlink: "https://bonnerlab.github.io/ccn-tutorial/" 
+          utlink: "https://2023.ccneuro.org/kt3.php" 
           authors: Gauthaman R.M., Kazemian A.,Chen Z., Guth F., Bonner M.
           conference: Computational Cognitive Neuroscience, 2023
         - title: "(Talk) Toward a computational neuroscience of visual cortex without deep learning"
