@@ -172,6 +172,12 @@ work:
         time: 2021
         company: AdHawk Microsystems, Toronto
         details: 
+            <style>
+                li {
+                    text-indent: -1em; /* Push the text left */
+                    padding-left: 1em; /* Compensate with padding */
+                }
+            </style>
             <ul>
                 <li>    Utilized AdHawks eye-tracking glasses to model human reading behaviors.</li>
                 <li>    Led the experimental design, including data collection and processing.</li>
