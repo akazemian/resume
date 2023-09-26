@@ -172,7 +172,12 @@ work:
         time: 2021
         company: AdHawk Microsystems, Toronto
         details: 
-            "•  Utilized AdHawk's eye-tracking glasses to model human reading behaviors.<br> •  Led the experimental design, including data collection and processing.<br> •  Engineered supervised models to estimate cognitive load, and established a pipeline for post-hoc prediction of cognitive during reading. <br> •  Enhanced product software with the newly integrated feature, resulting in heightened customer engagement."
+            <ul>
+                <li>Utilized AdHawks eye-tracking glasses to model human reading behaviors.</li>
+                <li>Led the experimental design, including data collection and processing.</li>
+                <li>Engineered supervised models to estimate cognitive load, and established a pipeline for post-hoc prediction of cognitive during reading. </li>
+                <li>Enhanced product software with the newly integrated feature, resulting in heightened customer engagement.</li>
+            </ul>
 
             
       - role: Data Science Intern
