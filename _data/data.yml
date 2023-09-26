@@ -142,30 +142,6 @@ publications:
           conference: Cognitive Computational Neuroscience, 2022
 
 
-projects:
-    title: "Projects"
-    intro: |
-    assignments:
-      - title: "<u>Modeling visual cortex using wide untrained neural networks</u> (2022-Now)"
-        link: "https://github.com/akazemian/Engineered_Models"
-        tagline: "Developing learning-free Convolutional Neural Networks (CNNs) that compete with standard trained models at predicting image-evoked neural responses in the primate brain."
-
-      - title: "<u>A deep learning approach for studying face scanning in prosopagnosia</u> (2021-2022)" 
-        link: "https://github.com/akazemian/Scanning-Faces-and-Prosopagnosia"
-        tagline: "Developed an ensemble of CNNs to distinguish subjects with prosopagnosia from healthy controls using their gaze pattern during a face recognition task. The results were used post hoc to study prosopagnosic behavioral markers during face scanning."
-
-      - title: "<u>A proposed neuro-imaging experiment for studying compositionality in visual perception</u> (2022)"
-        link: "https://qr1.be/Q0JF"
-        tagline: "Designed an fMRI experiment proposal for exploring the compositionality of neural representations during visual perception of object relations."
-
-      - title: "<u>Bionic AI</u> (2021)"
-        link: "<u>https://github.com/akazemian/Predicting-Grasp-and-Lift-Motions-Using-EEG</u>"
-        tagline: "Designed a (PyTorch) model for predicting intended motor movement using EEG data collected from subjects while performing a series of grasp and lift motions."
-
-      - title: "<u>Mental state decoder</u> (2021)"
-        link: "https://github.com/akazemian/Decoding-Mental-State"
-        tagline: "Designed a (TensorFlow) model for predicting mental state (relaxed, focused, neutral) using data collected from a consumer grade EEG headband."
-
 work:
     title: "Work Experience"
     info:
@@ -200,6 +176,32 @@ work:
                 <li>Developed neural network models to forecast parking renovation expenses based on building conditions.</li>
                 <li>Improved the price estimate accuracy, concurrently reducing manual inspection expenses.</li>
             </ul>
+            
+projects:
+    title: "Projects"
+    intro: |
+    assignments:
+      - title: "<u>Modeling visual cortex using wide untrained neural networks</u> (2022-Now)"
+        link: "https://github.com/akazemian/random_models_of_visual_cortex"
+        tagline: "Developing learning-free Convolutional Neural Networks (CNNs) that compete with standard trained models at predicting image-evoked neural responses in the primate brain."
+
+      - title: "<u>A deep learning approach for studying face scanning in prosopagnosia</u> (2021-2022)" 
+        link: "https://github.com/akazemian/Scanning-Faces-and-Prosopagnosia"
+        tagline: "Developed an ensemble of CNNs to distinguish subjects with prosopagnosia from healthy controls using their gaze pattern during a face recognition task. The results were used post hoc to study prosopagnosic behavioral markers during face scanning."
+
+      - title: "<u>A proposed neuro-imaging experiment for studying compositionality in visual perception</u> (2022)"
+        link: "https://qr1.be/Q0JF"
+        tagline: "Designed an fMRI experiment proposal for exploring the compositionality of neural representations during visual perception of object relations."
+
+      - title: "<u>Bionic AI</u> (2021)"
+        link: "<u>https://github.com/akazemian/Predicting-Grasp-and-Lift-Motions-Using-EEG</u>"
+        tagline: "Designed a (PyTorch) model for predicting intended motor movement using EEG data collected from subjects while performing a series of grasp and lift motions."
+
+      - title: "<u>Mental state decoder</u> (2021)"
+        link: "https://github.com/akazemian/Decoding-Mental-State"
+        tagline: "Designed a (TensorFlow) model for predicting mental state (relaxed, focused, neutral) using data collected from a consumer grade EEG headband."
+
+
 
 footer: 
     
