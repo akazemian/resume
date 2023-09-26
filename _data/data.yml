@@ -130,7 +130,7 @@ work:
             <ul>
                 <li>Utilized AdHawk&apos;s eye-tracking glasses to model human reading behaviors.</li>
                 <li>Led the experimental design, including data collection and processing.</li>
-                <li>Engineered supervised models to estimate cognitive load, and established a pipeline for post-hoc prediction of cognitive during reading.</li>
+                <li>Engineered supervised models and established a pipeline for post-hoc prediction of cognitive load during reading.</li>
                 <li>Enhanced product software with the newly integrated feature, resulting in heightened customer engagement.</li>
             </ul>
 
@@ -141,8 +141,7 @@ work:
             <ul>
                 <li>Extracted online product information from various e-commerce sites to gain insights into the Canadian cannabis market.</li>
                 <li>Enhanced web scraping and data processing pipelines, reducing data anomalies.</li>
-                <li>Conducted topic modeling and sentiment analysis on online customer reviews.</li>
-                <li>Showcased findings using a data visualization dashboard, unveiling key market trends.</li>
+                <li>Conducted topic modeling and sentiment analysis on online customer reviews, which revealed key market trends for clients.</li>
             </ul>
       
       - role: R&D Intern
@@ -150,9 +149,8 @@ work:
         company: Entuitive, Calgary
         details: 
             <ul>
-                <li>Automated the pricing workflow for parking renovations.</li>
-                <li>Developed neural network models to forecast parking renovation expenses based on building conditions.</li>
-                <li>Improved the price estimate accuracy, concurrently reducing manual inspection expenses.</li>
+                <li>Automated the pricing workflow for parking renovations by developing models to forecast parking renovation expenses based on previous data.</li>
+                <li>Improved the price estimation accuracy, concurrently reducing manual inspection expenses.</li>
             </ul>
             
 
@@ -162,7 +160,7 @@ projects:
     assignments:
       - title: "<u>Modeling visual cortex using wide untrained neural networks</u> (2022-Now)"
         link: "https://github.com/akazemian/random_models_of_visual_cortex"
-        tagline: "Developing learning-free Convolutional Neural Networks (CNNs) that compete with standard trained models at predicting image-evoked neural responses in the primate brain."
+        tagline: "Developing a family of Convolutional Neural Networks (CNNs) that explain image-evoked neural responses in the primate brain without pre-training on a computer vision task."
 
       - title: "<u>A deep learning approach for studying face scanning in prosopagnosia</u> (2021-2022)" 
         link: "https://github.com/akazemian/Scanning-Faces-and-Prosopagnosia"
@@ -172,8 +170,8 @@ projects:
         link: "https://qr1.be/Q0JF"
         tagline: "Designed an fMRI experiment proposal for exploring the compositionality of neural representations during visual perception of object relations."
 
-      - title: "<u>Bionic AI</u> (2021)"
-        link: "<u>https://github.com/akazemian/Predicting-Grasp-and-Lift-Motions-Using-EEG</u>"
+      - title: "<u>Predicting grasp and lift motions using EEG</u> (2021)"
+        link: "https://github.com/akazemian/Predicting-Grasp-and-Lift-Motions-Using-EEG"
         tagline: "Designed a (PyTorch) model for predicting intended motor movement using EEG data collected from subjects while performing a series of grasp and lift motions."
 
       - title: "<u>Mental state decoder</u> (2021)"
