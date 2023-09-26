@@ -120,28 +120,6 @@ research:
             prosopagnosia (face agnosia) using deep learning, advised by Prof. Jason 
             Barton and Prof. Ipek Oruc.
             
-publications:
-    title: "Conference Talks and Posters"
-    intro: |
-    papers:
-        - title: "(Keynote Tutorial Presentation) <u>A high dimensional view of computational neuroscience</u>"
-          link: "https://2023.ccneuro.org/kt3.php"
-          authors: Gauthaman R.M., Kazemian A.,Chen Z., Guth F., Bonner M.
-          conference: Computational Cognitive Neuroscience, 2023
-        - title: "(Poster) <u>High-dimensional Sampling in Random Neural Networks Competes With Deep Learning Models of Visual Cortex</u>"
-          link: "https://2023.ccneuro.org/proceedings/0001190.pdf"
-          authors: Kazemian A.,Elmoznino E., Bonner M.
-          conference: Cognitive Computational Neuroscience, 2023
-        - title: "(Talk Presentation) <u>Toward a computational neuroscience of visual cortex without deep learning</u>"
-          link: "https://www.visionsciences.org/presentation/?id=5455"
-          authors: Kazemian A.,Elmoznino E., Bonner M.
-          conference: Vision Sciences Society, 2023
-        - title: "(Poster) <u>Towards high-performance encoding models of visual cortex using modules of canonical computations</u>"
-          link: "https://2022.ccneuro.org/proceedings/0000362.pdf"
-          authors: Kazemian A.,Elmoznino E., Bonner M.
-          conference: Cognitive Computational Neuroscience, 2022
-
-
 work:
     title: "Work Experience"
     info:
@@ -177,6 +155,7 @@ work:
                 <li>Improved the price estimate accuracy, concurrently reducing manual inspection expenses.</li>
             </ul>
             
+
 projects:
     title: "Projects"
     intro: |
@@ -200,6 +179,28 @@ projects:
       - title: "<u>Mental state decoder</u> (2021)"
         link: "https://github.com/akazemian/Decoding-Mental-State"
         tagline: "Designed a (TensorFlow) model for predicting mental state (relaxed, focused, neutral) using data collected from a consumer grade EEG headband."
+
+
+publications:
+    title: "Conference Talks and Posters"
+    intro: |
+    papers:
+        - title: "(Keynote Tutorial Presentation) <u>A high dimensional view of computational neuroscience</u>"
+          link: "https://2023.ccneuro.org/kt3.php"
+          authors: Gauthaman R.M., Kazemian A.,Chen Z., Guth F., Bonner M.
+          conference: Computational Cognitive Neuroscience, 2023
+        - title: "(Poster) <u>High-dimensional Sampling in Random Neural Networks Competes With Deep Learning Models of Visual Cortex</u>"
+          link: "https://2023.ccneuro.org/proceedings/0001190.pdf"
+          authors: Kazemian A.,Elmoznino E., Bonner M.
+          conference: Cognitive Computational Neuroscience, 2023
+        - title: "(Talk Presentation) <u>Toward a computational neuroscience of visual cortex without deep learning</u>"
+          link: "https://www.visionsciences.org/presentation/?id=5455"
+          authors: Kazemian A.,Elmoznino E., Bonner M.
+          conference: Vision Sciences Society, 2023
+        - title: "(Poster) <u>Towards high-performance encoding models of visual cortex using modules of canonical computations</u>"
+          link: "https://2022.ccneuro.org/proceedings/0000362.pdf"
+          authors: Kazemian A.,Elmoznino E., Bonner M.
+          conference: Cognitive Computational Neuroscience, 2022
 
 
 
