@@ -173,28 +173,27 @@ work:
         company: AdHawk Microsystems, Toronto
         details: 
             <style>
-                li {
-                    text-indent: -1em; /* Push the text left */
-                    padding-left: 1em; /* Compensate with padding */
-                }
+            li {
+                text-indent: -1em; /* Push the text left */
+                padding-left: 1em; /* Compensate with padding */
+            }
             </style>
             <ul>
-                <li>    Utilized AdHawks eye-tracking glasses to model human reading behaviors.</li>
-                <li>    Led the experimental design, including data collection and processing.</li>
-                <li>    Engineered supervised models to estimate cognitive load, and established a pipeline for post-hoc prediction of cognitive during reading. </li>
-                <li>    Enhanced product software with the newly integrated feature, resulting in heightened customer engagement.</li>
+                <li>Utilized AdHawk's eye-tracking glasses to model human reading behaviors.</li>
+                <li>Led the experimental design, including data collection and processing.</li>
+                <li>Engineered supervised models to estimate cognitive load, and established a pipeline for post-hoc prediction of cognitive during reading.</li>
+                <li>Enhanced product software with the newly integrated feature, resulting in heightened customer engagement.</li>
             </ul>
 
-            
       - role: Data Science Intern
         time: 2021
         company: Neobi, Vancouver
         details: 
             <ul>
-                <li>    Extracted online product information from various e-commerce sites to gain insights into the Canadian cannabis market.</li>
-                <li>    Enhanced web scraping and data processing pipelines, reducing data anomalies.</li>
-                <li>    Conducted topic modeling and sentiment analysis on online customer reviews. </li>
-                <li>    Showcased findings using a data visualization dashboard, unveiling key market trends.</li>
+                <li>Extracted online product information from various e-commerce sites to gain insights into the Canadian cannabis market.</li>
+                <li>Enhanced web scraping and data processing pipelines, reducing data anomalies.</li>
+                <li>Conducted topic modeling and sentiment analysis on online customer reviews.</li>
+                <li>Showcased findings using a data visualization dashboard, unveiling key market trends.</li>
             </ul>
       
       - role: R&D Intern
@@ -202,11 +201,10 @@ work:
         company: Entuitive, Calgary
         details: 
             <ul>
-                <li>    Automated the pricing workflow for parking renovations.</li>
-                <li>    Developed neural network models to forecast parking renovation expenses based on building conditions.</li>
-                <li>    Achieved heightened price estimate accuracy, concurrently reducing manual inspection expenses.</li>
+                <li>Automated the pricing workflow for parking renovations.</li>
+                <li>Developed neural network models to forecast parking renovation expenses based on building conditions.</li>
+                <li>Achieved heightened price estimate accuracy, concurrently reducing manual inspection expenses.</li>
             </ul>
-
 
 footer: 
     
